@@ -1,0 +1,6 @@
+shees shoaib corolla toyota 1 0 3
+ali hussain yaris toyota 1 1 2
+laiba meer alsvin changan 1 1 3
+laiba meer swift suzuki 1 0 4
+zarah hasan civic honda 0 1 5
+ alsvin changan 1 1 7
