@@ -16,4 +16,6 @@ Sir Fahad Sherwani
 4. Shortest route and distance calculation using dijksttra's algorithm
 5. Billing sytem
 #### LINK TO VIDEO AND REPORT
-https://drive.google.com/drive/folders/1mqf8ufYH0vuyCEOAOfkyzAWpMj_GHl-v?usp=sharing
+https://drive.google.com/drive/folders/1mqf8ufYH0vuyCEOAOfkyzAWpMj_GHl-v?
+Video:  https://drive.google.com/file/d/1x38OytE47NFhiL5VzOerP5_8cqT6u0ck/view?usp=sharing
+Report: https://docs.google.com/document/d/19ivQMa7mOqhd64B_ewa3AaGy0YgCxfCf/edit?usp=sharing&ouid=117295239675723662269&rtpof=true&sd=true
